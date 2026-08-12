@@ -1,0 +1,611 @@
+{
+  "meta": {
+    "siteName": "Nobyte Academy",
+    "home": {
+      "title": "Nobyte Academy — Talento em Cibersegurança para o Futuro Digital",
+      "description": "Formação prática em cibersegurança, desenvolvimento de carreira e conscientização digital. A academia angolana que forma mentes e fortalece sistemas."
+    },
+    "about": {
+      "title": "Sobre Nós — Nobyte Academy",
+      "description": "Conheça a missão, visão e valores da Nobyte Academy, a organização angolana dedicada ao desenvolvimento de talento em cibersegurança."
+    },
+    "programs": {
+      "title": "Programas — Nobyte Academy",
+      "description": "Career Accelerator, formação técnica, security awareness e workshops. Conheça os programas da Nobyte Academy."
+    },
+    "careers": {
+      "title": "Carreiras em Cibersegurança — Nobyte Academy",
+      "description": "Roadmaps, competências e certificações para SOC Analyst, Pentester, AppSec, Cloud Security e mais."
+    },
+    "securityDay": {
+      "title": "Nobyte Security Day — Nobyte Academy",
+      "description": "O evento mensal de conscientização e educação em cibersegurança da Nobyte Academy, em Angola."
+    },
+    "corporate": {
+      "title": "Programas Corporativos — Nobyte Academy",
+      "description": "Reduza o risco humano e fortaleça a cultura de segurança da sua empresa com a Nobyte Academy."
+    },
+    "contact": {
+      "title": "Contactos — Nobyte Academy",
+      "description": "Fale com a Nobyte Academy sobre programas de carreira, formação, security awareness e parcerias."
+    }
+  },
+  "nav": {
+    "home": "Início",
+    "about": "Sobre",
+    "programs": "Programas",
+    "careers": "Carreiras",
+    "securityDay": "Security Day",
+    "corporate": "Empresas",
+    "contact": "Contactos",
+    "cta": "Começar Jornada"
+  },
+  "footer": {
+    "tagline": "Formamos mentes. Fortalecemos sistemas. Construímos um futuro seguro.",
+    "columns": {
+      "academy": "Academia",
+      "programs": "Programas",
+      "resources": "Recursos",
+      "contact": "Contacto"
+    },
+    "links": {
+      "about": "Sobre nós",
+      "careers": "Carreiras",
+      "securityDay": "Nobyte Security Day",
+      "corporate": "Empresas",
+      "career": "Career Accelerator",
+      "training": "Formação Técnica",
+      "awareness": "Security Awareness",
+      "workshops": "Workshops"
+    },
+    "newsletter": {
+      "title": "Boletim Nobyte",
+      "description": "Uma dose mensal de alertas de segurança, vagas e novidades da academia.",
+      "placeholder": "o.seu.email@exemplo.com",
+      "submit": "Subscrever"
+    },
+    "rights": "Todos os direitos reservados.",
+    "location": "Luanda, Angola"
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Academia de Cibersegurança · Angola",
+      "title": "Desenvolvemos talentos em cibersegurança para o futuro digital.",
+      "subtitle": "Formação prática em cibersegurança, desenvolvimento de carreira e conscientização digital para preparar profissionais para os desafios do mundo moderno.",
+      "ctaPrimary": "Começar Jornada",
+      "ctaSecondary": "Conhecer Programas",
+      "stats": [
+        {
+          "value": "01",
+          "label": "Formação prática desde os fundamentos"
+        },
+        {
+          "value": "02",
+          "label": "Conteúdo técnico e demonstrações hands-on"
+        },
+        {
+          "value": "03",
+          "label": "Carreira, awareness e comunidade"
+        }
+      ]
+    },
+    "why": {
+      "eyebrow": "Porquê a Nobyte",
+      "title": "Não vendemos cursos. Construímos uma transformação completa.",
+      "description": "Do primeiro contacto com a cibersegurança até à primeira entrevista de emprego, acompanhamos cada etapa com avaliação, prática e mentoria — não apenas conteúdo.",
+      "points": [
+        {
+          "title": "Prática desde o dia um",
+          "description": "Laboratórios reais, cenários de ataque e defesa, não apenas slides."
+        },
+        {
+          "title": "Mentoria próxima",
+          "description": "Profissionais em atividade acompanham o seu plano de desenvolvimento individual."
+        },
+        {
+          "title": "Preparação para o mercado",
+          "description": "CV, LinkedIn, portefólio e simulações de entrevista incluídos na jornada."
+        }
+      ]
+    },
+    "mission": {
+      "eyebrow": "Missão",
+      "title": "Educação em cibersegurança acessível, prática e com propósito.",
+      "description": "Criamos formação prática, mentoria e programas de conscientização que preparam pessoas e organizações para os desafios digitais do futuro — começando por Angola, com ambição africana e global."
+    },
+    "ecosystem": {
+      "eyebrow": "Ecossistema de Formação",
+      "title": "Uma jornada estruturada, não um curso isolado.",
+      "steps": [
+        {
+          "code": "PROTOCOLO 01",
+          "title": "Avaliação de Competências",
+          "description": "Mapeamos o seu ponto de partida técnico e definimos objetivos realistas."
+        },
+        {
+          "code": "PROTOCOLO 02",
+          "title": "Plano de Desenvolvimento Individual",
+          "description": "Um percurso de formação desenhado para o seu perfil e destino profissional."
+        },
+        {
+          "code": "PROTOCOLO 03",
+          "title": "Formação Técnica e Laboratórios",
+          "description": "Conteúdo técnico aplicado, com prática constante em ambientes controlados."
+        },
+        {
+          "code": "PROTOCOLO 04",
+          "title": "Projetos e Mentoria",
+          "description": "Projetos reais e acompanhamento próximo de mentores especialistas."
+        },
+        {
+          "code": "PROTOCOLO 05",
+          "title": "Preparação de Carreira",
+          "description": "CV, LinkedIn, portefólio e simulações de entrevista para o mercado de trabalho."
+        }
+      ]
+    },
+    "journey": {
+      "eyebrow": "Transformação de Carreira",
+      "title": "De iniciante a profissional de cibersegurança.",
+      "description": "A jornada Nobyte foi construída para quem está a começar do zero e para profissionais de TI em transição — sempre com destino claro: empregabilidade real.",
+      "cta": "Ver Career Accelerator"
+    },
+    "programsOverview": {
+      "eyebrow": "Programas",
+      "title": "Formação para cada etapa da sua jornada.",
+      "viewAll": "Ver todos os programas"
+    },
+    "awareness": {
+      "eyebrow": "Security Awareness",
+      "title": "A maior vulnerabilidade de qualquer organização é humana.",
+      "description": "Programas de conscientização que reduzem o risco humano através de phishing simulado, engenharia social e prevenção de fraude digital — para empresas, escolas e famílias.",
+      "cta": "Formação para Empresas"
+    },
+    "securityDayTeaser": {
+      "eyebrow": "Evento Mensal",
+      "title": "Nobyte Security Day",
+      "description": "Um encontro mensal gratuito de conscientização e educação em cibersegurança — palestras, demonstrações práticas e networking para toda a comunidade.",
+      "cta": "Ver Próximas Edições"
+    },
+    "community": {
+      "eyebrow": "Comunidade",
+      "title": "Aprender em rede, crescer em conjunto.",
+      "description": "Estudantes, profissionais, universidades e empresas fazem parte da mesma comunidade de cibersegurança — trocando conhecimento, oportunidades e desafios."
+    },
+    "testimonials": {
+      "eyebrow": "O que estamos a construir",
+      "title": "Uma comunidade para aprender, praticar e evoluir.",
+      "items": [
+        {
+          "quote": "Laboratórios, demonstrações e aprendizagem aplicada.",
+          "name": "CYBER LABS",
+          "role": "Conteúdo prático"
+        },
+        {
+          "quote": "Eventos e conversas que aproximam estudantes, profissionais e empresas.",
+          "name": "NOBYTE COMMUNITY",
+          "role": "Comunidade"
+        },
+        {
+          "quote": "Uma jornada que conecta competências técnicas com desenvolvimento profissional.",
+          "name": "CAREER DEVELOPMENT",
+          "role": "Carreira"
+        }
+      ]
+    },
+    "partners": {
+      "eyebrow": "Ecossistema",
+      "title": "Construímos pontes com universidades, empresas e comunidades de tecnologia."
+    },
+    "finalCta": {
+      "title": "A sua jornada em cibersegurança começa com uma decisão.",
+      "description": "Fale connosco e descubra o programa certo para o seu momento — seja como estudante, profissional ou empresa.",
+      "ctaPrimary": "Começar Jornada",
+      "ctaSecondary": "Falar com a Academia"
+    }
+  },
+  "about": {
+    "hero": {
+      "eyebrow": "Sobre a Nobyte Academy",
+      "title": "Uma academia de cibersegurança nascida em Angola, com ambição global.",
+      "subtitle": "Combinamos educação, prática e desenvolvimento de carreira para formar a próxima geração de profissionais de cibersegurança em África."
+    },
+    "who": {
+      "title": "Quem somos",
+      "description": "A Nobyte Academy é uma organização angolana dedicada ao desenvolvimento de talento em cibersegurança através de formação prática, mentoria, laboratórios, programas de conscientização e eventos de comunidade. Não vendemos apenas cursos: guiamos pessoas numa jornada completa, de iniciante a profissional."
+    },
+    "mission": {
+      "title": "Missão",
+      "description": "Criar acesso a educação em cibersegurança através de formação prática, mentoria e programas de conscientização, preparando pessoas e organizações para os desafios digitais do futuro."
+    },
+    "vision": {
+      "title": "Visão",
+      "description": "Tornar-se uma organização de referência em educação de cibersegurança em Angola e em África, contribuindo para o desenvolvimento de profissionais e de um ecossistema digital mais seguro."
+    },
+    "values": {
+      "title": "Valores",
+      "items": [
+        "Excelência",
+        "Ética",
+        "Inovação",
+        "Aprendizagem contínua",
+        "Partilha de conhecimento",
+        "Segurança digital",
+        "Crescimento profissional"
+      ]
+    },
+    "approach": {
+      "title": "A nossa abordagem",
+      "description": "Combinamos quatro pilares em tudo o que fazemos:",
+      "pillars": [
+        {
+          "title": "Educação",
+          "description": "Conteúdo técnico atualizado, claro e aplicável — do zero ao avançado."
+        },
+        {
+          "title": "Prática",
+          "description": "Laboratórios, projetos e simulações reais em vez de teoria isolada."
+        },
+        {
+          "title": "Carreira",
+          "description": "Mentoria, CV, portefólio e preparação para entrevistas reais de mercado."
+        },
+        {
+          "title": "Comunidade",
+          "description": "Eventos, networking e uma rede viva de profissionais e organizações."
+        }
+      ]
+    }
+  },
+  "programs": {
+    "hero": {
+      "eyebrow": "Programas",
+      "title": "Um percurso para cada perfil, do primeiro contacto à especialização.",
+      "subtitle": "Quatro programas complementares que cobrem carreira, formação técnica, conscientização e workshops corporativos e académicos."
+    },
+    "list": [
+      {
+        "code": "FND-01",
+        "title": "Fundamentos de Cibersegurança",
+        "description": "A porta de entrada para compreender ameaças, riscos, redes, sistemas e os princípios de proteção digital.",
+        "items": [
+          "Fundamentos de segurança",
+          "Ameaças e vulnerabilidades",
+          "Redes e sistemas",
+          "Controlo de acesso",
+          "Boas práticas de segurança"
+        ]
+      },
+      {
+        "code": "OFF-01",
+        "title": "Ethical Hacking Essentials",
+        "description": "Introdução prática à segurança ofensiva, com laboratórios controlados e foco em metodologia, ética e reporte.",
+        "items": [
+          "Reconhecimento",
+          "Superfície de ataque",
+          "Vulnerabilidades",
+          "Laboratórios controlados",
+          "Relatórios técnicos"
+        ]
+      },
+      {
+        "code": "DEF-01",
+        "title": "SOC Analyst Fundamentals",
+        "description": "Introdução à monitorização, análise de logs, deteção e resposta a incidentes num ambiente SOC.",
+        "items": [
+          "SOC e triagem",
+          "Logs e eventos",
+          "SIEM",
+          "Deteção de ameaças",
+          "Resposta inicial"
+        ]
+      },
+      {
+        "code": "SEC-01",
+        "title": "WAF & SIEM Fundamentals",
+        "description": "Compreenda como WAF e SIEM ajudam equipas a observar, detetar e reduzir riscos em ambientes modernos.",
+        "items": [
+          "WAF e proteção web",
+          "Regras e eventos",
+          "SIEM",
+          "Correlação",
+          "Demonstrações práticas"
+        ]
+      }
+    ],
+    "cta": {
+      "title": "Ainda não sabe por onde começar?",
+      "description": "A nossa equipa ajuda a identificar o percurso mais adequado ao seu nível e objetivo profissional.",
+      "button": "Falar com a Academia"
+    }
+  },
+  "careers": {
+    "hero": {
+      "eyebrow": "Carreiras",
+      "title": "Inicie a sua jornada em cibersegurança.",
+      "subtitle": "Roadmaps claros, competências essenciais, certificações reconhecidas e orientação de portefólio para cada função."
+    },
+    "paths": [
+      {
+        "code": "PATH-01",
+        "title": "SOC Analyst",
+        "description": "Monitorização, deteção e resposta a incidentes de segurança em tempo real.",
+        "skills": [
+          "SIEM",
+          "Análise de logs",
+          "Resposta a incidentes",
+          "Redes"
+        ],
+        "certifications": [
+          "CompTIA Security+",
+          "Blue Team Level 1",
+          "SC-200"
+        ]
+      },
+      {
+        "code": "PATH-02",
+        "title": "Pentester",
+        "description": "Simulação de ataques reais para identificar e reportar vulnerabilidades antes dos atacantes.",
+        "skills": [
+          "Exploração de vulnerabilidades",
+          "Scripting",
+          "Redes",
+          "Relatórios técnicos"
+        ],
+        "certifications": [
+          "eJPT",
+          "PNPT",
+          "OSCP"
+        ]
+      },
+      {
+        "code": "PATH-03",
+        "title": "Application Security Engineer",
+        "description": "Segurança integrada no ciclo de desenvolvimento de software, do código à produção.",
+        "skills": [
+          "Secure code review",
+          "DevSecOps",
+          "OWASP Top 10",
+          "APIs"
+        ],
+        "certifications": [
+          "GWEB",
+          "CSSLP",
+          "AppSec certifications"
+        ]
+      },
+      {
+        "code": "PATH-04",
+        "title": "Cloud Security Engineer",
+        "description": "Proteção de infraestrutura e workloads em ambientes cloud modernos.",
+        "skills": [
+          "IAM",
+          "Arquitetura cloud",
+          "Automação de segurança",
+          "Compliance"
+        ],
+        "certifications": [
+          "AZ-500",
+          "AWS Security Specialty",
+          "CCSP"
+        ]
+      },
+      {
+        "code": "PATH-05",
+        "title": "Security Analyst",
+        "description": "Avaliação contínua de riscos e implementação de controlos de segurança na organização.",
+        "skills": [
+          "Gestão de risco",
+          "Políticas de segurança",
+          "Auditoria",
+          "Compliance"
+        ],
+        "certifications": [
+          "CompTIA Security+",
+          "CySA+",
+          "ISO 27001 Foundation"
+        ]
+      }
+    ],
+    "guidance": {
+      "title": "O que inclui cada roadmap",
+      "items": [
+        {
+          "title": "Competências necessárias",
+          "description": "As bases técnicas e comportamentais para cada função."
+        },
+        {
+          "title": "Certificações recomendadas",
+          "description": "Um percurso de certificação realista, do inicial ao avançado."
+        },
+        {
+          "title": "Orientação de portefólio",
+          "description": "Como demonstrar competência através de projetos reais e write-ups."
+        }
+      ]
+    },
+    "cta": {
+      "title": "Pronto para escolher o seu caminho?",
+      "description": "O Career Accelerator combina todos estes roadmaps com mentoria individual.",
+      "button": "Conhecer o Career Accelerator"
+    }
+  },
+  "securityDay": {
+    "hero": {
+      "eyebrow": "Evento Mensal · Gratuito",
+      "title": "Nobyte Security Day",
+      "subtitle": "Programa oficial de conscientização e educação em cibersegurança da Nobyte Academy, dedicado a aproximar profissionais, estudantes, empresas e comunidade em Angola."
+    },
+    "what": {
+      "title": "O que é o Security Day?",
+      "description": "Uma iniciativa mensal que promove conscientização, educação e cultura de cibersegurança através de palestras, demonstrações práticas e networking — criando uma comunidade ativa de aprendizagem e prevenção de fraudes digitais.",
+      "cadence": "Realização mensal, preferencialmente no primeiro sábado de cada mês, com cerca de 3 horas de duração.",
+      "audience": {
+        "title": "Para quem é",
+        "items": [
+          "Estudantes",
+          "Profissionais de TI",
+          "Empresas",
+          "Gestores",
+          "Pais e educadores",
+          "Público em geral"
+        ]
+      }
+    },
+    "schedule": {
+      "title": "Estrutura do evento",
+      "items": [
+        {
+          "time": "09:00",
+          "title": "Credenciamento"
+        },
+        {
+          "time": "09:20",
+          "title": "Abertura institucional"
+        },
+        {
+          "time": "09:40",
+          "title": "Palestra principal"
+        },
+        {
+          "time": "10:40",
+          "title": "Coffee break & networking"
+        },
+        {
+          "time": "11:00",
+          "title": "Demonstração prática"
+        },
+        {
+          "time": "11:40",
+          "title": "Perguntas e respostas"
+        },
+        {
+          "time": "12:00",
+          "title": "Encerramento e fotografia oficial"
+        }
+      ]
+    },
+    "upcoming": {
+      "title": "Próximas edições",
+      "items": [
+        {
+          "month": "Mês 1",
+          "title": "Fraudes Digitais e Engenharia Social",
+          "description": "Phishing, golpes bancários, WhatsApp e QR Codes, com demonstração prática de identificação de fraudes."
+        },
+        {
+          "month": "Mês 2",
+          "title": "Segurança Digital para Famílias",
+          "description": "Cyberbullying, redes sociais e proteção de crianças, com workshop de configurações de privacidade."
+        },
+        {
+          "month": "Mês 3",
+          "title": "Carreira em Cibersegurança",
+          "description": "Áreas da profissão, certificações e roadmap de empregabilidade, com painel de profissionais convidados."
+        },
+        {
+          "month": "Mês 4",
+          "title": "Segurança Empresarial",
+          "description": "Ransomware, cultura de segurança e gestão de risco, com simulação de incidente e mesa-redonda."
+        }
+      ]
+    },
+    "evolution": {
+      "title": "Rumo ao Nobyte Cyber Summit",
+      "description": "O Security Day é a base do futuro evento anual 'Nobyte Cyber Summit', reunindo especialistas nacionais e internacionais, empresas, universidades e a comunidade de cibersegurança."
+    },
+    "registration": {
+      "title": "Garanta o seu lugar",
+      "description": "As inscrições são gratuitas e limitadas por edição. Deixe os seus dados e receba o convite para a próxima sessão.",
+      "button": "Inscrever-me na Próxima Edição"
+    }
+  },
+  "corporate": {
+    "hero": {
+      "eyebrow": "Para Empresas e Organizações",
+      "title": "O maior risco de segurança da sua empresa pode ser um clique.",
+      "subtitle": "Programas de conscientização em cibersegurança que reduzem o risco humano e fortalecem a cultura de segurança da sua organização."
+    },
+    "benefits": {
+      "title": "O que a sua empresa ganha",
+      "items": [
+        {
+          "title": "Reduzir o risco humano",
+          "description": "Menos cliques em phishing, menos incidentes causados por erro humano."
+        },
+        {
+          "title": "Melhorar a cultura de segurança",
+          "description": "Equipas que reconhecem, reportam e reagem corretamente a ameaças."
+        },
+        {
+          "title": "Formar colaboradores",
+          "description": "Programas adaptados a diferentes níveis técnicos e departamentos."
+        },
+        {
+          "title": "Aumentar a resiliência cibernética",
+          "description": "Organizações mais preparadas para prevenir e responder a incidentes."
+        }
+      ]
+    },
+    "programs": {
+      "title": "Como trabalhamos com empresas",
+      "items": [
+        "Diagnóstico de maturidade de segurança e risco humano",
+        "Campanhas de phishing simulado",
+        "Workshops de engenharia social e fraude digital",
+        "Formação técnica para equipas de TI e SOC",
+        "Participação corporativa no Nobyte Security Day"
+      ]
+    },
+    "cta": {
+      "title": "Pronto para fortalecer a sua organização?",
+      "description": "Fale com a nossa equipa e desenhamos um programa de conscientização à medida da sua empresa.",
+      "button": "Solicitar Formação Corporativa"
+    }
+  },
+  "contact": {
+    "hero": {
+      "eyebrow": "Contactos",
+      "title": "Vamos construir o seu próximo passo em cibersegurança.",
+      "subtitle": "Estudante, profissional ou empresa — a nossa equipa responde em até 48 horas úteis."
+    },
+    "form": {
+      "name": "Nome",
+      "namePlaceholder": "O seu nome completo",
+      "email": "Email",
+      "emailPlaceholder": "o.seu.email@exemplo.com",
+      "phone": "Telefone",
+      "phonePlaceholder": "+244 900 000 000",
+      "company": "Empresa",
+      "companyPlaceholder": "Nome da empresa (opcional)",
+      "interest": "Interesse",
+      "interestPlaceholder": "Selecione uma opção",
+      "interestOptions": [
+        "Programa de Carreira",
+        "Formação Técnica",
+        "Security Awareness",
+        "Formação Corporativa",
+        "Parceria",
+        "Security Day"
+      ],
+      "message": "Mensagem",
+      "messagePlaceholder": "Conte-nos um pouco sobre o que procura...",
+      "submit": "Enviar Mensagem",
+      "success": "Mensagem enviada. A nossa equipa responde em breve.",
+      "required": "Campo obrigatório"
+    },
+    "info": {
+      "title": "Outros canais",
+      "location": "Luanda, Angola",
+      "email": "geral@nobyte.academy",
+      "hours": "Segunda a sexta, 09:00–18:00 (WAT)"
+    }
+  },
+  "common": {
+    "learnMore": "Saber mais",
+    "backToPrograms": "Voltar aos programas",
+    "readMore": "Ler mais",
+    "skillsRequired": "Competências",
+    "certifications": "Certificações"
+  }
+}

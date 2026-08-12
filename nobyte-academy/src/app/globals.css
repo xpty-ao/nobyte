@@ -1,0 +1,87 @@
+@import "tailwindcss";
+
+@theme {
+  /* ---- Nobyte Academy brand tokens ---- */
+  --color-void: #050608;        /* cyber black */
+  --color-navy: #0a0f1c;        /* dark navy surface */
+  --color-navy-2: #101728;      /* raised navy surface */
+  --color-navy-3: #182238;      /* border / hairline on dark */
+  --color-violet: #7c3aed;      /* electric purple */
+  --color-violet-2: #9d5cff;    /* lighter violet for text on dark */
+  --color-magenta: #d946ef;     /* neon magenta, gradient endpoint */
+  --color-ink: #0b0d12;         /* near-black text on white */
+  --color-mist: #8991a3;        /* muted gray */
+  --color-mist-2: #c7cbd6;      /* light gray */
+  --color-paper: #f7f7fa;       /* off white surface */
+
+  --font-display: var(--font-space-grotesk);
+  --font-body: var(--font-manrope);
+  --font-mono: var(--font-jetbrains-mono);
+
+  --animate-scan: scan 4.5s linear infinite;
+  --animate-pulse-slow: pulse-slow 3.2s ease-in-out infinite;
+  --animate-drift: drift 22s linear infinite;
+}
+
+@keyframes scan {
+  0% { transform: translateY(-6%); opacity: 0; }
+  8% { opacity: 1; }
+  92% { opacity: 1; }
+  100% { transform: translateY(106%); opacity: 0; }
+}
+
+@keyframes pulse-slow {
+  0%, 100% { opacity: 0.55; transform: scale(1); }
+  50% { opacity: 1; transform: scale(1.06); }
+}
+
+@keyframes drift {
+  from { background-position: 0 0; }
+  to { background-position: 240px 240px; }
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background: var(--color-void);
+  color: white;
+  font-family: var(--font-body), ui-sans-serif, system-ui, sans-serif;
+}
+
+::selection {
+  background: var(--color-violet);
+  color: white;
+}
+
+:focus-visible {
+  outline: 2px solid var(--color-violet-2);
+  outline-offset: 3px;
+  border-radius: 2px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.001ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.001ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+.text-gradient {
+  background-image: linear-gradient(95deg, var(--color-violet-2) 10%, var(--color-magenta) 90%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  color: transparent;
+}
+
+.hex-clip {
+  clip-path: polygon(25% 5%, 75% 5%, 100% 50%, 75% 95%, 25% 95%, 0% 50%);
+}
+
+.grid-fade-mask {
+  mask-image: radial-gradient(ellipse 60% 60% at 50% 30%, black 40%, transparent 85%);
+  -webkit-mask-image: radial-gradient(ellipse 60% 60% at 50% 30%, black 40%, transparent 85%);
+}
